@@ -1,0 +1,1 @@
+# .NetCoreMicroserviceCiCdAks-NetCoreCiPipeline
